@@ -44,5 +44,5 @@ We founded this organization to fulfill our team project in a class called 'Sign
 - Interests
     - Developing a platform that embeds ESG, SDGs, and social value
     
-    <img src="https://forbesasiacustom.com/wp-content/uploads/2023/05/AdobeStock_512358628_ESG-scaled-e1684460712704.jpeg" alt="ESG" width="150"/>
+      <img src="https://forbesasiacustom.com/wp-content/uploads/2023/05/AdobeStock_512358628_ESG-scaled-e1684460712704.jpeg" alt="ESG" width="150"/>
 
