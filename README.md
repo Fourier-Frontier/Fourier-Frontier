@@ -4,7 +4,7 @@ We founded this organization to fulfill our team project in a class called 'Sign
 
 ### Introduce each team member.
 
-**Sunjun Hwang (Team Lead)**
+**Sunjun Hwang (Team Leader)**
 - Interests
     - Quantum computing
     - Artificial intelligence
