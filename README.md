@@ -40,7 +40,7 @@ We founded this organization to fulfill our team project in a class called 'Sign
       <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/146077217/original/ec6abb0608c329153692d2940a95162ec5e85616/be-ios-android-app-developer-for-mobile-app-with-server-backend.png" alt="MP" width="150"/>
 
 
-**Choi Choi Hyuk**
+**Sang Hyuk Choi**
 - Interests
     - Developing a platform that embeds ESG, SDGs, and social value
     
